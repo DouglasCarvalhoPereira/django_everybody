@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=keo0dglCj7I
 https://www.pythonanywhere.com/ Hospedagem de código Python em cloud
 https://docs.djangoproject.com/en/3.0/intro/tutorial01/ Documentação Django
 https://help.pythonanywhere.com/pages/FollowingTheDjangoTutorial/ Tutorial Python Anywhere with Django
+
+
+https://dj4e.com/assn/dj4e_install.md
+https://dj4e.com/lessons/dj4_install
