@@ -33,7 +33,7 @@ DELETE FROM Users WHERE email='ted@umich@.edu'
 UPDATE Users Set name= 'Charles' WHERE email='csev@umch.edu'
 
 SELECT * FROM Users WHERE email='csev@umich.edu'
-
+ 
 SELECT * FROM Users ORDER BY email
 
 SELECT * FROM Users ORDER BY name DESC
